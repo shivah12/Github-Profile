@@ -13,5 +13,3 @@ GitHub Finder makes it super easy to find any random GitHub user and see their w
 
  
 
-### Live Demo:  [https://ghfinder-phi.vercel.app](https://ghfinder-phi.vercel.app) 
-
