@@ -14,7 +14,7 @@ searchUser.addEventListener("keyup", (e) => {
       if (data.profile.message === "Not Found") {
       } else {
         ui.showProfile(data.profile);
-        ui.showRepos(data.repos);
+        ui.showRepo(data.repos);
       }
     });
   } else {
